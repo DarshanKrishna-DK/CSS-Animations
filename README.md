@@ -36,4 +36,4 @@ Contributions to this repository are welcome! If you have additional CSS animati
 
 5. Open a pull request to the main repository.
 
-We appreciate your contributions!
+I appreciate your contributions!
