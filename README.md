@@ -1,4 +1,10 @@
-# CSS Animations Repository
+<h1 align="center">CSS Animations</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS-2563EB?style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/HTML-7C3AED?style=for-the-badge" alt="HTML" />
+  <img src="https://img.shields.io/badge/Web%20Animations-0891B2?style=for-the-badge" alt="Web Animations" />
+</p>
 
 Welcome to the CSS Animations Repository! This repository is a collection of small CSS animations and interactive web elements to add flair and engagement to your web projects.
 
